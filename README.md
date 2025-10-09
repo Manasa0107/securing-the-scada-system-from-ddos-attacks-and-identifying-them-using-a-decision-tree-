@@ -15,5 +15,3 @@ Key insights for this project include:
 - The system helps in proactive protection of SCADA networks by timely alert generation and potentially automated mitigation responses.
 
 
-https://www.sciencedirect.com/science/article/abs/pii/S2542660522001573
-[11] Ensemble Learning Framework for DDoS Detection in SDN ... https://www.semanticscholar.org/paper/Ensemble-Learning-Framework-for-DDoS-Detection-in-Oyucu-Polat/cf3d71f72a551f325b6288fa78502bd72a089ace
